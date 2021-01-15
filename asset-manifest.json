@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/PomodoroClock-React/static/css/main.d246cf50.chunk.css",
+    "main.css": "/PomodoroClock-React/static/css/main.c94eb017.chunk.css",
     "main.js": "/PomodoroClock-React/static/js/main.e7ba8f1d.chunk.js",
     "main.js.map": "/PomodoroClock-React/static/js/main.e7ba8f1d.chunk.js.map",
     "runtime-main.js": "/PomodoroClock-React/static/js/runtime-main.577cbe80.js",
@@ -10,14 +10,14 @@
     "static/js/3.23f63c54.chunk.js": "/PomodoroClock-React/static/js/3.23f63c54.chunk.js",
     "static/js/3.23f63c54.chunk.js.map": "/PomodoroClock-React/static/js/3.23f63c54.chunk.js.map",
     "index.html": "/PomodoroClock-React/index.html",
-    "static/css/main.d246cf50.chunk.css.map": "/PomodoroClock-React/static/css/main.d246cf50.chunk.css.map",
+    "static/css/main.c94eb017.chunk.css.map": "/PomodoroClock-React/static/css/main.c94eb017.chunk.css.map",
     "static/js/2.f560447f.chunk.js.LICENSE.txt": "/PomodoroClock-React/static/js/2.f560447f.chunk.js.LICENSE.txt",
     "static/media/App.css": "/PomodoroClock-React/static/media/tomato.19910158.png"
   },
   "entrypoints": [
     "static/js/runtime-main.577cbe80.js",
     "static/js/2.f560447f.chunk.js",
-    "static/css/main.d246cf50.chunk.css",
+    "static/css/main.c94eb017.chunk.css",
     "static/js/main.e7ba8f1d.chunk.js"
   ]
 }
